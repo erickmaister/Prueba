@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algoritmo_Prueba", "Algoritmo_Prueba\Algoritmo_Prueba.vcxproj", "{C1AB2F6A-B4DA-4E0B-83C8-F8819D21644E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1AB2F6A-B4DA-4E0B-83C8-F8819D21644E}.Debug|x64.ActiveCfg = Debug|x64
+		{C1AB2F6A-B4DA-4E0B-83C8-F8819D21644E}.Debug|x64.Build.0 = Debug|x64
+		{C1AB2F6A-B4DA-4E0B-83C8-F8819D21644E}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1AB2F6A-B4DA-4E0B-83C8-F8819D21644E}.Debug|x86.Build.0 = Debug|Win32
+		{C1AB2F6A-B4DA-4E0B-83C8-F8819D21644E}.Release|x64.ActiveCfg = Release|x64
+		{C1AB2F6A-B4DA-4E0B-83C8-F8819D21644E}.Release|x64.Build.0 = Release|x64
+		{C1AB2F6A-B4DA-4E0B-83C8-F8819D21644E}.Release|x86.ActiveCfg = Release|Win32
+		{C1AB2F6A-B4DA-4E0B-83C8-F8819D21644E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA7DF573-4D7B-40A9-83CD-DF70B3924BC9}
+	EndGlobalSection
+EndGlobal
